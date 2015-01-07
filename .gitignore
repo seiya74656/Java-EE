@@ -1,2 +1,8 @@
 .DS_Store
 .metadata
+Servers
+.gitignore
+CityManagerWeb/.classpath
+CityManagerWeb/.gitignore
+CityManagerWeb/.project
+CityManagerWeb/.settings
